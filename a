@@ -1,0 +1,5 @@
+#!/bin/bash
+echo
+echo "Activating xgboost"
+echo
+source "xgboost/Scripts/activate"
